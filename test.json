@@ -1,4 +1,10 @@
 {
 	"title": "Hello World Harry",
-	"subtitle": "Mein Subtitel"
+	"subtitle": "Mein Subtitel",
+	"hobby": [
+		"Eating",
+		"Drinking",
+		"Soccer",
+		"Fire"
+	]
 }
