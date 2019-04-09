@@ -7,8 +7,20 @@
 		"Item 3"
 	],
 	"news": [
-		"\n            ",
-		"dd",
-		"ddd"
+		{
+			"text": "\n            ",
+			"title": "Halll",
+			"date": "dadsfasdf"
+		},
+		{
+			"text": "asdfasdfa",
+			"title": "asdfasdf",
+			"date": "asdfasdf"
+		},
+		{
+			"text": "dddasdfasdfasdfas asdfas dfasdfasdf asdfasdfasdf",
+			"title": "asdf",
+			"date": "asdf"
+		}
 	]
 }
