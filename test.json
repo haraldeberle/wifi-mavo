@@ -8,19 +8,14 @@
 	],
 	"news": [
 		{
-			"text": "\n            ",
-			"title": "Halll",
-			"date": "dadsfasdf"
+			"title": "Meine Überschrift",
+			"date": "01.01.2019",
+			"text": "mein erster Blogeintrag"
 		},
 		{
-			"text": "asdfasdfa",
-			"title": "asdfasdf",
-			"date": "asdfasdf"
-		},
-		{
-			"text": "dddasdfasdfasdfas asdfas dfasdfasdf asdfasdfasdf",
-			"title": "asdf",
-			"date": "asdf"
+			"title": "Thema 2",
+			"date": "01.02.2019",
+			"text": "Hallo Welt!!"
 		}
 	]
 }
