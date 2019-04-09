@@ -8,14 +8,14 @@
 	],
 	"news": [
 		{
-			"title": "dadfsasdf",
-			"date": "asdfasadf",
-			"text": "aasdfasdfasdf"
-		},
-		{
 			"title": "asdfasdf",
 			"date": "asdfasdf",
 			"text": "asdfasdfasdf"
+		},
+		{
+			"title": "dadfsasdf",
+			"date": "asdfasadf",
+			"text": "aasdfasdfasdf"
 		}
 	]
 }
