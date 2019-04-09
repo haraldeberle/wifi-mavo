@@ -6,20 +6,5 @@
 		"Item 2",
 		"Item 3"
 	],
-	"news": [
-		{
-			"title": "asdfasdf",
-			"date": "asdfasdf",
-			"text": "asdfasdfasdf",
-			"bild": "https://picsum.photos/600/300/?random",
-			"datum": "asdf"
-		},
-		{
-			"title": "dadfsasdf",
-			"date": "asdfasadf",
-			"text": "aasdfasdfasdf",
-			"bild": "https://picsum.photos/600/300/?random",
-			"datum": "asdf"
-		}
-	]
+	"news": []
 }
