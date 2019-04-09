@@ -6,26 +6,5 @@
 		"Item 2",
 		"Item 3"
 	],
-	"news": [
-		{
-			"title": "Meine Überschrift",
-			"date": "01.01.2019",
-			"text": "mein erster Blogeintrag"
-		},
-		{
-			"title": "Thema 2",
-			"date": "01.02.2019",
-			"text": "Hallo Welt!!"
-		},
-		{
-			"title": "Thema 3",
-			"date": "01.03.2019",
-			"text": "Mein Gott Walter! "
-		},
-		{
-			"title": "Thema 4",
-			"date": "Big City Life",
-			"text": "Ützel Brützel"
-		}
-	]
+	"news": []
 }
