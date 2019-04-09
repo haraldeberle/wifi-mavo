@@ -11,7 +11,8 @@
 			"bild": "https://picsum.photos/600/400/?random",
 			"title": "asdf",
 			"datum": "asfd",
-			"text": "asfd"
+			"text": "asfd",
+			"link": "www.google.at"
 		}
 	]
 }
