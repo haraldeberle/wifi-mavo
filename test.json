@@ -14,6 +14,12 @@
 			"datum": "asfd",
 			"text": "asfd",
 			"link": "www.google.at"
+		},
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/haraldeberle/wifi-mavo@05b99f2ab2386422097b66c0055781cbb399085c/images/20180601_155447.jpg",
+			"title": "testt",
+			"datum": "2121",
+			"text": "561515"
 		}
 	]
 }
